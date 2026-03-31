@@ -28,16 +28,16 @@ Um sistema web completo para gerenciamento e reserva de salas em diferentes hor�
 
 👥 Equipe de Desenvolvimento Projeto desenvolvido pelos alunos do 3º período de Ciência da Computação:
 
-Adhan Borges de Souza
+Adhan Borges de Souza (Matrícula: 3354685) 
 
-Elano Serrão
+Elano Serrão (Matrícula: 03352468) 
 
-Gabriel Farias
+Gabriel Farias (Matrícula: 03357097) 
 
-Izabel Cristina Martins dos Santos
+Izabel Cristina Martins dos Santos (Matrícula: 3211302) 
 
-Luigi Gabriel Lopes dos Santos
+Luigi Gabriel Lopes dos Santos (Matrícula: 03358502) 
 
-Nicolas Alegre Ferreira Melo
+Nicolas Alegre Ferreira Melo (Matrícula: 3356782) 
 
-Pietro
+Pietro (Matrícula: 03359792)
